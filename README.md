@@ -1,7 +1,7 @@
 # fbautochat
-`*Instruction manual `
-`+If you uses username and password to login you must empty data in '' (no space) `
-`+If you login uses cookie you need take in your facebook `
+`*Instruction manual ` 
+`+If you uses username and password to login you must empty data in '' (no space) ` 
+`+If you login uses cookie you need take in your facebook ` 
 -Example:
 +First you click right click in your mouse and choose inspect or F12
 ![image](https://github.com/PhCtrlZ/fbautochat/assets/99201700/ba9bf9b6-c381-40c5-91d9-3715b2399f63)
@@ -16,8 +16,8 @@
 ![image](https://github.com/PhCtrlZ/fbautochat/assets/99201700/36cb4727-92ac-40db-97f8-03a5c8148bb4)
 
 *.Notice:
-`+If your cookie is:sb=SV-JZnj7OzlvHnvXUMxlSn4Z;dpr=0.75;wd=1821x809;datr=W1-JZuFAjkYdQmvpf4uFqTHP;ps_n=1;ps_l=1;c_user=100041640854172;xs=21%3A1upFyswGvwrmMg%3A2%3A1720278897%3A-1%3A6299%3A%3AAcWZtZfSGGI9U9Gu_uPSMCU6DUZ7MrkBzvDHc2mZUw;presence=C%7B%22lm3%22%3A%22sc.7269614943126597%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22sc.7003277509769421%22%7D%5D%2C%22utc3%22%3A1720311460785%2C%22v%22%3A1%7D;fr=1z9FSeDqEvEQpOEhW.AWXFG3yXUAUtv2E2BXHxcfe56KQ.Bmid5m..AAA.0.0.Bmid87.AWWj_QaCwTg; `
--Finally:You must copy each element to fill in form cookie in file fbchat.py
+`+If your cookie is:sb=SV-JZnj7OzlvHnvXUMxlSn4Z;dpr=0.75;wd=1821x809;datr=W1-JZuFAjkYdQmvpf4uFqTHP;ps_n=1;ps_l=1;c_user=100041640854172;xs=21%3A1upFyswGvwrmMg%3A2%3A1720278897%3A-1%3A6299%3A%3AAcWZtZfSGGI9U9Gu_uPSMCU6DUZ7MrkBzvDHc2mZUw;presence=C%7B%22lm3%22%3A%22sc.7269614943126597%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22sc.7003277509769421%22%7D%5D%2C%22utc3%22%3A1720311460785%2C%22v%22%3A1%7D;fr=1z9FSeDqEvEQpOEhW.AWXFG3yXUAUtv2E2BXHxcfe56KQ.Bmid5m..AAA.0.0.Bmid87.AWWj_QaCwTg; ` 
+-Finally:You must copy each element to fill in form cookie in file fbchat.py 
 <code>
   session_cookie={  
     "sb": "SV-JZnj7OzlvHnvXUMxlSn4Z",
